@@ -1,0 +1,18 @@
+{
+  "name": "Options Class",
+  "description": "Allow easy access to sub array properties mainly used to provide options for classes/functions.",
+  "authors": [
+    "Thomas Allmer <d4kmor@gmail.com>"
+  ],
+  "keywords": [
+    "php",
+    "options"
+  ],
+  "demos": {
+    "Demo": "demo/index.php"
+  },
+  "dependencies": {
+    "Is": "daKmoR/Is",
+    "ArrayHelper": "daKmoR/ArrayHelper"
+  }
+}
